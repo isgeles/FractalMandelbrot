@@ -2,6 +2,8 @@
 
 Generating a fractal Bitmap with the Mandelbrot-set.
 
+![Sample output when compiled](./test.bmp)
+
 
 ## Note:
 Compiling source files with terminal:<br>
